@@ -1,0 +1,13 @@
+@import url("https://use.fontawesome.com/releases/v5.8.2/css/all.css");
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css");
+
+.profile-bg{
+    background-image: url("../images/profile-bg.jpg");
+  background-repeat: none;
+  background-size: cover;
+}
+.p-bg{
+    background-color:#33CCFF;
+    background-size: 100% 100%;
+}

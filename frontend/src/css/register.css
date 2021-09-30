@@ -1,0 +1,18 @@
+.reg {
+  background: url("../images/register.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.reg-form {
+  background-color: #99D9EA;
+}
+.hire-agent{
+  background: url("../images/hire.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.hire-form{
+  background-color: #f8f9facf;
+  font-weight: bolder;
+ 
+}

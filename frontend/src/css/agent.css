@@ -1,0 +1,26 @@
+#agent{
+    align-items: center;
+}
+
+
+  .ag-img{
+    height: 100%;
+    width: 120%;
+  }
+ .agent-img{
+    background: url("../images/hire.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .txt-decor{
+    text-Align:center;
+    color:blue;
+    font-weight:bolder;
+    text-decoration-line:underline;
+    text-decoration-style:double;
+  }
+  .tbl_decor{
+    font-weight: bold;
+    font-size: medium;
+    color:black;
+}
